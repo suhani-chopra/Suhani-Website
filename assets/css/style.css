@@ -382,8 +382,8 @@ section {
 }
 
 .about .container .row .col-lg-4 #pfp {
-  max-width: 30%;
-  max-height: 30%;
+  max-width: 80%;
+  max-height: 80%;
   float: left;
 }
 
@@ -424,6 +424,10 @@ section {
   margin: 0;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
+}
+
+.facts h2 {
+  margin-top: 0;
 }
 
 /*--------------------------------------------------------------
