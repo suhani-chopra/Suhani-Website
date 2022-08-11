@@ -382,8 +382,8 @@ section {
 }
 
 .about #profile-photo {
-  max-width: 600px;
-  max-height: 600px;
+  max-width: 80%;
+  max-height: 80%;
 }
 
 /*--------------------------------------------------------------
