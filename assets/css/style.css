@@ -358,11 +358,12 @@ section {
   font-weight: 700;
   font-size: 26px;
   color: #728394;
-  margin-top: 20px;
+  padding-top: 20px;
 }
 .about .content ul {
   list-style: none;
-  padding: 0;
+  padding-top: 20px;
+  margin: 0;
 }
 .about .content ul li {
   margin-bottom: 20px;
