@@ -362,6 +362,7 @@ section {
 .about .content ul {
   list-style: none;
   padding: 0;
+  text-align: justify;
 }
 .about .content ul li {
   margin-bottom: 20px;
