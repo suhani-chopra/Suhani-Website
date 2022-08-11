@@ -362,7 +362,6 @@ section {
 .about .content ul {
   list-style: none;
   padding: 0;
-  text-align: justify;
 }
 .about .content ul li {
   margin-bottom: 20px;
@@ -380,14 +379,6 @@ section {
 }
 .about .content p:last-child {
   margin-bottom: 0;
-}
-
-.photo #profile-photo {
-  max-width: 400px;
-  max-height: 400px;
-  float: left;
-  margin: 10px;
-  clear: left;
 }
 
 /*--------------------------------------------------------------
