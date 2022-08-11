@@ -382,8 +382,8 @@ section {
 }
 
 .photo #profile-photo {
-  max-width: 80%;
-  max-height: 80%;
+  max-width: 20%;
+  max-height: 20%;
 }
 
 /*--------------------------------------------------------------
